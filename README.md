@@ -80,8 +80,7 @@ End with an example of getting some data out of the system or using it for a lit
 ```
 >> Enter your birth date: #6-12-1380  
 You burned on Monday  
-25 February 2002  
-12 Zi'Hajja 1422  
+25 February 2002   
 ```
     
 ## 🤝 Contact
