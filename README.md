@@ -29,9 +29,6 @@ Technologies I used in developing this project:
 .NET Core SDK version 3.1.426  
 Virtual Studio Code  
 Git  
-  
-If you have any messages for me, rich me by E-mail at
-<a href="mailto: mortezatajerii@gmail.com">mortezatajerii@gmail.com</a>
 
 ## &#127937; Getting Started <a name = "getting_started"></a>
 
