@@ -41,9 +41,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 As prerequisites you will need to install `.NET SDK 3.1` and `git` installed on your computer.
 
-```
-Give examples
-```
 #### Debian / Ubuntu / ZorinOS
 ```
 wget https://packages.microsoft.com/config/ubuntu/21.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
@@ -80,13 +77,14 @@ then run project
 dotnet run
 ```
 End with an example of getting some data out of the system or using it for a little demo.
->Enter your birth date: *6-12-1380*  
->You burned on Monday  
->25 February 2002  
->12 Zi'Hajja 1422  
-  
+```
+>> Enter your birth date: #6-12-1380  
+You burned on Monday  
+25 February 2002  
+12 Zi'Hajja 1422  
+```
     
-## 🧐 Contact
+## 🤝 Contact
 
 If you have any messages for me, rich me by E-mail at
 <a href="mailto: mortezatajerii@gmail.com">mortezatajerii@gmail.com</a>
