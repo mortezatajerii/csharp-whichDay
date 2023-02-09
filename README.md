@@ -21,7 +21,7 @@
   which day of the week and see alternative calendar dates for your birth date.
 </p>
 
-## 🧐 About <a name = "about"></a>
+## &#129488; About <a name = "about"></a>
 
 This a simple project for developing and increasing knowledge in c# based on a course by <a href="https://github.com/ashkanRmk">Ashkan Rahmani</a>  
 Technologies I used in developing this project:  
@@ -33,7 +33,7 @@ Git
 If you have any messages for me, rich me by E-mail at
 <a href="mailto: mortezatajerii@gmail.com">mortezatajerii@gmail.com</a>
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## &#127937; Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
@@ -83,7 +83,7 @@ You burned on Monday
 25 February 2002   
 ```
     
-## 🤝 Contact
+## &#128231; Contact
 
 If you have any messages for me, rich me by E-mail at
 <a href="mailto: mortezatajerii@gmail.com">mortezatajerii@gmail.com</a>
